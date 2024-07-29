@@ -32,4 +32,6 @@ El proyecto incluye dos versiones del reproductor de música:
 - OLED
 ## Colaboradores
 José Jezarel
+
+
 Agel Ramirez 
